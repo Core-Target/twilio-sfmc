@@ -33,7 +33,7 @@
     "configurationArguments": {
       "applicationExtensionKey": "7f8d4cc0-e1b7-4022-a94c-d89db8d4dd81",
        "save": {
-           "url": "https://jb-twilio-sfmc-0a4f370dceeb.herokuapp.com/save",
+           "url": "https://jb-twilio-sfmc-0a4f370dceeb.herokuapp.com/journeybulder/save",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -41,7 +41,7 @@
             "timeout": 2000
        },
        "publish": {
-           "url": "https://jb-twilio-sfmc-0a4f370dceeb.herokuapp.com/publish",
+           "url": "https://jb-twilio-sfmc-0a4f370dceeb.herokuapp.com/journeybulder/publish",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -49,7 +49,7 @@
             "timeout": 2000
        },
        "validate": {
-           "url": "https://jb-twilio-sfmc-0a4f370dceeb.herokuapp.com/validate",
+           "url": "https://jb-twilio-sfmc-0a4f370dceeb.herokuapp.com/journeybulder/validate",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -57,7 +57,7 @@
             "timeout": 2000
        },
        "stop": {
-           "url": "https://jb-twilio-sfmc-0a4f370dceeb.herokuapp.com/stop",
+           "url": "https://jb-twilio-sfmc-0a4f370dceeb.herokuapp.com/journeybulder/stop",
             "verb": "POST",
             "body": "",
             "format": "json",
