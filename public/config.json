@@ -55,14 +55,6 @@
             "format": "json",
             "useJwt": false,
             "timeout": 2000
-       },
-       "stop": {
-           "url": "https://jb-twilio-sms-3dacc3c39fe3.herokuapp.com/journeybuilder/stop",
-            "verb": "POST",
-            "body": "",
-            "format": "json",
-            "useJwt": false,
-            "timeout": 2000
        }
     },
     "wizardSteps": [
