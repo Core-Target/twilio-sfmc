@@ -22,7 +22,7 @@
                 }               
             ],
             "outArguments": [],
-            "url": "https://jb-twilio-sfmc-0a4f370dceeb.herokuapp.com/execute",
+            "url": "https://jb-twilio-sms-3dacc3c39fe3.herokuapp.com/execute",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -33,7 +33,7 @@
     "configurationArguments": {
       "applicationExtensionKey": "7f8d4cc0-e1b7-4022-a94c-d89db8d4dd81",
        "save": {
-           "url": "https://jb-twilio-sfmc-0a4f370dceeb.herokuapp.com/journeybuilder/save",
+           "url": "https://jb-twilio-sms-3dacc3c39fe3.herokuapp.com/journeybuilder/save",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -41,7 +41,7 @@
             "timeout": 2000
        },
        "publish": {
-           "url": "https://jb-twilio-sfmc-0a4f370dceeb.herokuapp.com/journeybuilder/publish",
+           "url": "https://jb-twilio-sms-3dacc3c39fe3.herokuapp.com/journeybuilder/publish",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -49,7 +49,7 @@
             "timeout": 2000
        },
        "validate": {
-           "url": "https://jb-twilio-sfmc-0a4f370dceeb.herokuapp.com/journeybuilder/validate",
+           "url": "https://jb-twilio-sms-3dacc3c39fe3.herokuapp.com/journeybuilder/validate",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -57,7 +57,7 @@
             "timeout": 2000
        },
        "stop": {
-           "url": "https://jb-twilio-sfmc-0a4f370dceeb.herokuapp.com/journeybuilder/stop",
+           "url": "https://jb-twilio-sms-3dacc3c39fe3.herokuapp.com/journeybuilder/stop",
             "verb": "POST",
             "body": "",
             "format": "json",
